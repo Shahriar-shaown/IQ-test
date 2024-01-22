@@ -1,0 +1,23 @@
+.topic{
+    border: 2px solid rgb(180, 173, 173);
+    margin: 10px;
+    background-color: rgb(171, 159, 182);
+    border-radius: 15px;
+    padding: 20px;
+}
+.topic img{
+    height: 150px;
+    width: 240px;
+}
+.btn{
+    background-color: rgb(15, 32, 32);
+    color: white;
+    font-weight: bold;
+    height: 30px;
+    border-radius: 20px;
+}
+.btn-quiz{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
